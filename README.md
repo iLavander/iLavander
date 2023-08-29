@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iLavander
-- 👀 I’m interested in programming
+- 👀 I’m interested in Web Development, AI
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me (this is my discord id : ilavander)
 
